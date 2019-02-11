@@ -1,5 +1,5 @@
 # Modul_Bootstrap
-Hasil SS
+Hasil SS JS
 
 ![alt text](https://github.com/DamarRaihanChoirulFirdaus27RPL/Modul_Bootstrap/blob/master/Modul%20Bootstrap%20(1).png)
 
